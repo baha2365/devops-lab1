@@ -1,1 +1,1 @@
-print("Hello DevOps from Baknassip")
+print("Hello DevOps")
